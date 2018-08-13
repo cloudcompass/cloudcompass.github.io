@@ -11,6 +11,6 @@ project-date: July 2016
 moreInfo: Red Hat's OpenShift Container Platform
 moreInfoURL: https://www.openshift.com
 category: Deployment
-description: Red Hat's OpenShift is a Cloud Native Platform as a Service (PaaS) that handles building, deploying, promoting and managing applications so that developers can focus on creating great applications. C3I contributed to the start-to-full production operation of the BC Government's hosted instance of OpenShift. This included platform architecture, application setup, application team processes and building a strong community of users.
+description: Red Hat's OpenShift is a Cloud Native Platform as a Service (PaaS) that handles building, deploying, promoting and managing applications so that developers can focus on creating great applications. Cloud Compass Computing has contributed to the start-to-full production operation of the BC Government's hosted instance of OpenShift. This included platform architecture, application setup, application team processes and building a strong community of users.
 
 ---
