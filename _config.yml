@@ -1,64 +1,40 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+# url: https://y7kim.github.io
+# baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Cloud Compass Computing, Inc.
+email: swcurran@cloudcompass.ca
+description: "Cloud Compass Computing, Inc. (C3I for short) is a boutique consultancy based in Victoria, British Columbia that has deep experience in DevOps and DevOps Transformation. C3I played a key role in the development of the Continuous Service Improvement Lab at the Province of British Columbia, a highly successful experiment in organizational and technical transformation from the Legacy to Agile/DevOps world of Digital Service Delivery."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Stephen Curran
   pic: 1
-  position: Lead Designer
+  position: Technical Architect
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: http://twitter.com/scurranC3I
+    - title: github
+      url: http://github.com/swcurran
 
-- name: Larry Parker
+- name: Shea Phillips
   pic: 2
-  position: Lead Marketer
+  position: Technical Architect and Incredible Bit-Twiddler
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: github
+      url: http://github.com/sheaphillips
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: http://twitter.com/scurranC3I
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/cloudcompass
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Victoria, British Columbia, Canada
 
 # Build settings
 markdown: kramdown

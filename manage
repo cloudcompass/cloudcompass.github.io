@@ -1,0 +1,45 @@
+#!/bin/bash
+export MSYS_NO_PATHCONV=1
+set -e
+
+SCRIPT_HOME="$( cd "$( dirname "$0" )" && pwd )"
+
+# =================================================================================================================
+# Usage:
+# -----------------------------------------------------------------------------------------------------------------
+usage () {
+  cat <<-EOF
+
+  Usage: $0 [command] [options]
+  Commands to manage a local instance of the site
+
+  Commands:
+
+  build - prepares the environment for runnng the website
+          You need to do this first.
+
+  start - runs the website with incremental updates
+
+EOF
+exit 1
+}
+# -----------------------------------------------------------------------------------------------------------------
+# Functions:
+# -----------------------------------------------------------------------------------------------------------------
+
+# =================================================================================================================
+
+pushd ${SCRIPT_HOME} >/dev/null
+
+case "$1" in
+  start)
+      exec jekyll serve --incremental
+    ;;
+  build)
+      bundle install
+    ;;
+  *)
+      usage;;
+esac
+
+popd >/dev/null

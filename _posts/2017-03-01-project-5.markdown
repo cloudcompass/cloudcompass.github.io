@@ -1,0 +1,16 @@
+---
+title: DevOps Training
+subtitle: Open Source Course Materials
+layout: default
+modal-id: 5
+date: 2017-03-01
+img: devopsTraining.png
+thumbnail: devopsTraining-thumbnail.png
+alt: DevOpsTraining
+project-date: March 2017
+moreInfo: C3I DevOps Training Course
+moreInfoURL: https://github.com/cloudcompass/DevOpsFor
+category: DevOps Training
+description: C3I developed, presented and open sourced a course on DevOps for teams starting their journey. The course is tuned for each organization to which it is presented, and includes the core materials to get any team started on the same page as they begin to create a DevOps culture.  Let us know if you would like to discuss using this course within your organization!
+
+---
