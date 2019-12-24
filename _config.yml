@@ -2,9 +2,14 @@
 # baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Cloud Compass Computing, Inc.
+title: Cloud Compass Computing Inc.
 email: swcurran@cloudcompass.ca
-description: "Cloud Compass Computing, Inc. (C3I for short) is a boutique consultancy based in Victoria, British Columbia that has deep experience in DevOps and DevOps Transformation. C3I played a key role in the development of the Continuous Service Improvement Lab at the Province of British Columbia, a highly successful experiment in organizational and technical transformation from the Legacy to Agile/DevOps world of Digital Service Delivery."
+description: "Cloud Compass Computing Inc. is a boutique consultancy based in
+Victoria, British Columbia that has deep experience in DevOps and DevOps
+Transformation. C3I played a key role in the development of the Continuous
+Service Improvement Lab at the Province of British Columbia, a highly successful
+experiment in organizational and technical transformation from the Legacy to
+Agile/DevOps world of Digital Service Delivery."
 
 
 # Team names, titles and social links
@@ -31,6 +36,8 @@ social:
     url: http://twitter.com/scurranC3I
   - title: github
     url: http://github.com/cloudcompass
+  - title: github
+    url: http://github.com/swcurran
 
 # Postal address (add as many lines as necessary)
 address:
