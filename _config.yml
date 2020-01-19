@@ -4,12 +4,15 @@
 # Site settings
 title: Cloud Compass Computing Inc.
 email: swcurran@cloudcompass.ca
-description: "Cloud Compass Computing Inc. is a boutique consultancy based in
-Victoria, British Columbia that has deep experience in DevOps and DevOps
-Transformation. C3I played a key role in the development of the Continuous
-Service Improvement Lab at the Province of British Columbia, a highly successful
-experiment in organizational and technical transformation from the Legacy to
-Agile/DevOps world of Digital Service Delivery."
+
+description: "Cloud Compass Computing has been implementing end-to-end value
+stream optimizations, integrating Development and Operations teams (DevOps), and
+creating continuous improvement cultures for more than 15 years. We have been
+contributing to the Linux Foundation’s Hyperledger Indy and Aries projects for
+more than two years. In that work, we've dug deeply into self-sovereign identity
+(SSI), decentralized identifiers (DIDs), verifiable credentials (VCs) and the
+blockchain technologies that will drive the next major wave of Internet
+innovation."
 
 
 # Team names, titles and social links
