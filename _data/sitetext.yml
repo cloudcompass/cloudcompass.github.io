@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Self-sovereign Identity using Verifiable Credentials
+    title: Self-Sovereign Identity Using Verifiable Credentials
     text: We Can Help!
     button: Learn More
     buttonlink: "#services"
@@ -25,18 +25,18 @@ en: &DEFAULT_EN
         desc: "We have been working with, and contributing to the Linux Foundation’s Hyperledger Indy and Aries projects since 2017. In that work, we've dug deeply into self-sovereign identity (SSI), decentralized identifiers (DIDs), verifiable credentials (VCs) and the blockchain foundation that will drive the next major wave of Internet innovation."
         icon: fas fa-id-card #find more at https://fontawesome.com/icons
       - title: "Deploying Aries-based Solutions"
-        desc: "We literally wrote the ~~book~~ course on Hyperledger Aries, helping thousands [become Aries developers](https://training.linuxfoundation.org/training/becoming-a-hyperledger-aries-developer-lfs173/). We can provide guidance, training, design and DevOps deployment help for your Aries issuer, verifier and wallet solutions.
+        desc: "We literally wrote the ~~book~~ course on Hyperledger Aries, helping thousands [become Aries developers](https://training.linuxfoundation.org/training/becoming-a-hyperledger-aries-developer-lfs173/). We can provide consulting, training, design and DevOps deployment guidance for your Aries issuer, verifier and wallet solutions.
         <br><br>
-        We're also maintainers of the open-source project [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python), so we know a bit about that. too!"
+        We are also maintainers of the open-source project [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python), so we know a bit about that too!"
         icon: fas fa-network-wired
       - title: "Consulting, Training and Technical Writing"
         desc: "
           We offer consulting, training and technical writing for identity using blockchain solutions and DevOps. In both domains, we anchor our services around two courses for getting started:
           <br><br>
 
-          - **Getting Started in SSI**: A half- to one-day course, taught at a business-level.
+          - **Getting Started in SSI**: A half- to one-day course, taught at a business level.
 
-          - **Aries Developer Deep-Dive**: A one- to two-day course, taught at a more technical level with lots of hands-on labs and demos."
+          - **Aries Developer Deep Dive**: A one- to two-day course, taught at a more technical level with lots of hands-on labs and demos."
 
         icon: fas fa-chalkboard-teacher
 
@@ -60,17 +60,17 @@ en: &DEFAULT_EN
         alt: "DevOps"
       - title: "Diving into all things self-sovereign identity (SSI) using Hyperledger Indy"
         year: "2017-2018"
-        desc: "Working with the Government of BC, learning about, building and deploying real verifiable credentials solutions using Hyperledger Indy. It was a big learning curve, and we did it with a focus deploying real solutions and leaving behind lots of artifacts to save others from learning it from scratch. From that came TheOrgBook (now [OrgBook BC](https://orgbook.gov.bc.ca)), our first scaled, production SSI applications."
+        desc: "Working with the Government of BC, learning about, building and deploying verifiable credentials solutions using Hyperledger Indy. It was a big learning curve, and we did it with a focus deploying real solutions and leaving behind lots of artifacts to save others from learning it from scratch. From that came TheOrgBook (now [OrgBook BC](https://orgbook.gov.bc.ca)), our first scaled, production SSI application."
         image: assets/img/timeline/indy.jpg
         alt: "Hyperledger Indy logo"
       - title: "Full SSI applications with Hyperledger Aries and Aries Cloud Agent Python"
         year: "2019-2020"
-        desc: "We were core contributors in defining the core Aries protocols that make up Aries Interop Profiles 1.0. As well, we worked with the BC Gov team in creating and building many (many!) SSI applications on top of [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python). In 2020 we also launched our first course on edX for the Linux Foundation -- a business-focused course on SSI with Indy and Aries."
+        desc: "We were core contributors in defining the core Aries protocols that make up Aries Interop Profiles 1.0. As well, we worked with the BC Gov team in creating and building many (many!) SSI applications on top of [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python). In 2020, we also launched our first course on edX for the Linux Foundation -- a business-focused course on SSI with Indy and Aries."
         image: assets/img/timeline/aries.jpg
         alt: "Hyperledger Aries logo"
       - title: "Verifiable credentials, all the time"
         year: "2021-Present"
-        desc: "Our journey continues, as iteratively learn and contribute to the open source SSI world. We're helping at the Sovrin Foundation, building the world's most stable distributed ledger for identity. We've got two courses on the go at edX with the Linux Foundation. And we continue to work with BC Gov as it collaborates globally on tools, standards, code, knowledge and the deployment of advanced digital identity solutions."
+        desc: "Our journey continues, as we iteratively learn and contribute to the open source SSI world. We're helping at the Sovrin Foundation, building the world's most stable distributed ledger for identity. We've got two courses on the go at edX with the Linux Foundation. And we continue to work with BC Gov as it collaborates globally on tools, standards, code, knowledge and the deployment of advanced digital identity solutions."
         image: assets/img/timeline/vcTriangle.jpg
         alt:
         # you can enforce the alignment
@@ -81,7 +81,7 @@ en: &DEFAULT_EN
     title: ""
     text: ""
     body: "Cloud Compass Computing has been implementing end-to-end value
-stream optimizations, integrating Development and Operations teams (DevOps), and
+stream optimizations, integrating Development and Operations (DevOps) teams, and
 creating continuous improvement cultures for more than 15 years. <br><br>We have been
 contributing to the Linux Foundation’s Hyperledger Indy and Aries projects since
 2017. In that work, we've dug deeply into self-sovereign identity
@@ -127,7 +127,7 @@ innovation."
 
       - name: Carol Howard
         image: assets/img/team/ech.webp
-        role: Good old fashioned technical writer. <br> Will bring donuts.
+        role: Technical Writer
         social:
           - url: https://github.com/carolhoward/cloudcompass.github.io
             icon: fab fa-github
